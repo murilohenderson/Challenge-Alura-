@@ -15,11 +15,15 @@
 Você pode acessar o sorteador no Vercel clicando [aqui](https://sorteadordeamigosecreto.vercel.app/)
 Você pode acessar o código no Github clicanddo [aqui](https://github.com/murilohenderson/Challenge-Alura-.git)
 
-# ✔️ Tecnologias usadas
+# ✔️ Técnicas e tecnologias usadas
 - ``Visual Studio Code``
 - ``HTML5``
 - ``CSS3``
 - ``JavaScript``
+
+# Autores
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/200527859?v=4" width=115><br><sub>Murilo Henderson</sub>](https://github.com/murilohenderson)|
+| :---: | :---: | :---: |
 
 
 Funcionalidades e Demonstração da Aplicação;
