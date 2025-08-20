@@ -13,7 +13,7 @@
 
 # 📁 Acesso ao projeto 
 Você pode acessar o sorteador no Vercel clicando [aqui](https://sorteadordeamigosecreto.vercel.app/)
-Você pode acessar o código no Github clicanddo [aqui](https://github.com/murilohenderson/Challenge-Alura-.git)
+Você pode acessar o código no Github clicando [aqui](https://github.com/murilohenderson/Challenge-Alura-.git)
 
 # ✔️ Técnicas e tecnologias usadas
 - ``Visual Studio Code``
