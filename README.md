@@ -22,4 +22,4 @@ Você pode acessar o código no Github clicanddo [aqui](https://github.com/muril
 - ``JavaScript``
 
 # Autores
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/200527859?v=4" width=115><br><sub>Murilo Henderson</sub>](https://github.com/murilohenderson)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/200527859?v=4" width=115 borderradius=10px><br><sub>Murilo Henderson</sub>](https://github.com/murilohenderson)
