@@ -22,5 +22,5 @@ Você pode acessar o código no Github clicanddo [aqui](https://github.com/muril
 - ``JavaScript``
 
 # Autores
-[<img src="https://avatars.githubusercontent.com/u/200527859?v=4" width="115" style="border-radius:30px; border:1px solid #ccc;">](https://github.com/murilohenderson)
+[<img src="https://avatars.githubusercontent.com/u/200527859?v=4" width="115">](https://github.com/murilohenderson)
 <br><sub>Murilo Henderson</sub>
