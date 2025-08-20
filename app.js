@@ -1,1 +1,35 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
+let amigos = [];
+
+function atualizarLista() {
+    let lista = document.querySelector("#listaAmigos");
+    lista.innerHTML = "";
+
+    for (let i = 0; i < amigos.length; i++) {
+        let li = document.createElement("li");
+        li.textContent = amigos[i]; 
+        // Adicione o item i, ou seja, o nome que está alocado naquela posição dentro da array, dentro da tag "li"
+        lista.appendChild(li); 
+        // Coloca o item "li" dentro de <ul>
+    }
+}
+
+function adicionarAmigo() {
+    let amigo = document.querySelector("#amigo");
+    if (amigo.value === "") {
+        alert("Por favor, insira um nome.");
+    } else { 
+        amigos.push(amigo.value);
+        amigo.value = "";
+    }
+    atualizarLista();
+}
+
+function sortearAmigo() {
+    if (amigos.length === 0) {
+        alert("Adicione amigos para fazer um sorteio.");
+    } else {
+        let indiceAleatorio = parseInt(Math.random() * amigos.length);
+        let resultado = document.querySelector("#resultado");
+        resultado.innerHTML = amigos[indiceAleatorio];
+    }
+}
