@@ -3,9 +3,6 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 <p>Projeto de jogo sorteador de um número secreto, usando HTML, CSS e JavaScript, para a formação de Iniciante em Programação do programa Oracle Next Education, em parceria com a Alura.</p>
-<h4 align="center"> 
-	:construction:  Projeto em construção  :construction:
-</h4>
 
 # 🔨 Funcionalidades do projeto
 
@@ -14,8 +11,15 @@
 - `Atualizar lista`: a lista de amigos é atualizada automaticamente sempre que um novo nome é adicionado.
 - `Sortear amigo`: escolhe aleatoriamente um dos nomes adicionados e mostra o resultado na tela.
 
-# 📁 Acesso ao projeto via Vercel
-https://sorteadordeamigosecreto.vercel.app/
+# 📁 Acesso ao projeto 
+Você pode acessar o sorteador no Vercel clicando [aqui](https://sorteadordeamigosecreto.vercel.app/)
+Você pode acessar o código no Github clicanddo [aqui](https://github.com/murilohenderson/Challenge-Alura-.git)
+
+# ✔️ Tecnologias usadas
+- ``Visual Studio Code``
+- ``HTML5``
+- ``CSS3``
+- ``JavaScript``
 
 
 Funcionalidades e Demonstração da Aplicação;
