@@ -1,0 +1,12 @@
+<h1 align="center"> Sorteador de Amigo Secreto</h1>
+[Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+Badges;
+Índice;
+Descrição do Projeto;
+Status do Projeto;
+Funcionalidades e Demonstração da Aplicação;
+Acesso ao Projeto;
+Tecnologias utilizadas;
+Pessoas Contribuidoras;
+Pessoas Desenvolvedoras do Projeto;
+Licença.
