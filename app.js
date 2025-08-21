@@ -1,4 +1,5 @@
 let amigos = [];
+let amigosSorteados = [];
 
 function atualizarLista() {
     let lista = document.querySelector("#listaAmigos");
@@ -28,8 +29,17 @@ function sortearAmigo() {
     if (amigos.length === 0) {
         alert("Adicione amigos para fazer um sorteio.");
     } else {
-        let indiceAleatorio = parseInt(Math.random() * amigos.length);
+        let indicePresenteador = parseInt(Math.random() * amigos.length);
+        let amigoPresenteador = amigos.splice(indicePresenteador, 1)[0];
+
+        let indicePresenteado = parseInt(Math.random() * amigos.length);
+        let amigoPresenteado = amigos.splice(indicePresenteado, 1)[0];
+
+        amigosSorteados.push({presenteador: amigoPresenteador, presenteado: amigoPresenteado});
+
+        atualizarLista();        
+        
         let resultado = document.querySelector("#resultado");
-        resultado.innerHTML = amigos[indiceAleatorio];
+        resultado.innerHTML = "O amigo " + amigoPresenteador + " deverá presentar o amigo " + amigoPresenteado;
     }
 }
