@@ -26,6 +26,7 @@ function adicionarAmigo() {
 }
 
 function sortearAmigo() {
+<<<<<<< HEAD
     if (amigos.length < 2) {
         alert("Adicione ao menos dois amigos para fazer um sorteio.");
     }
@@ -44,6 +45,5 @@ function sortearAmigo() {
         // mostrar o resultado
         let resultado = document.querySelector("#resultado");
         resultado.innerHTML = "O amigo " + amigoPresenteador + " deverá presentear o amigo " + amigoPresentado;
-
     }
 }
