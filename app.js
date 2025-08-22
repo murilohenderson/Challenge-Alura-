@@ -26,7 +26,6 @@ function adicionarAmigo() {
 }
 
 function sortearAmigo() {
-<<<<<<< HEAD
     if (amigos.length < 2) {
         alert("Adicione ao menos dois amigos para fazer um sorteio.");
     }
